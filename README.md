@@ -1,4 +1,4 @@
-# SOC-Analyst-Lab (Setup + Brute-Force Incident)
+# SOC-Analyst-Lab 
 
 **Short description:** Local SOC analyst mini-lab demonstrating log collection and detection workflows using Dockerized Elasticsearch and Kibana. Includes a setup-only document, Kibana screenshots, an exported dashboard (optional), and a one-page incident report for a brute-force authentication simulation.
 
