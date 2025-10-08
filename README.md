@@ -7,8 +7,8 @@
 ## Quick links
 - **Setup doc (no attack scripts):** `docs/Lab Setup Documentation.docx` :contentReference[oaicite:0]{index=0}  
 - **Screenshots:** `docs/screenshots/` (Discover, bar chart, pie chart, table)  
-- **Incident report (brute force):** `incidents/Incident Report.docx` :contentReference[oaicite:1]{index=1} and `incidents/Incident Report.pdf` :contentReference[oaicite:2]{index=2}  
-- **Raw event log (spreadsheet):** `docs/Authentication Event Log - Recent.xlsx`
+- **Incident report :** `incidents/Incident Report.docx` :contentReference[oaicite:1]{index=1} and `incidents` :contentReference[oaicite:2]{index=2}  
+- **Raw event log :** `docs/Authentication Event Log - Recent.xlsx`
 
 ---
 
@@ -22,7 +22,7 @@
 ## How to view
 1. Browse `docs/Lab Setup Documentation.docx` to read the setup-only documentation. :contentReference[oaicite:3]{index=3}  
 2. View screenshots in `docs/screenshots/` for visual proof of the dashboard and detections.  
-3. Open `incidents/Incident Report.pdf` (or the .docx) for the incident summary and suggested mitigations. :contentReference[oaicite:4]{index=4}
+3. Open `incidents` (or the .pdf) for the incident summary and suggested mitigations. :contentReference[oaicite:4]{index=4}
 
 ---
 
